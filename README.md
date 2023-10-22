@@ -17,7 +17,7 @@ To pass them, you need to run the program in CMD that works SPECIFICALLY in the 
 There are various ways of running the program:
 
 #### 1) Directly via .py script (you also need to install Python for this to work):
-Download the code as ZIP (or you can also "git clone" the repo to omit extracting the files, extract it somewhere and run `python uwuify.py [optional arguments]` and of course it has to be run SPECIFICALLY in the program path (where you unpacked it).
+Download the code as ZIP (or you can also "git clone" the repo to omit extracting the files), extract it somewhere and run `python uwuify.py [optional arguments]` and of course it has to be run SPECIFICALLY in the program path (where you unpacked it).
 #### 2) Prebuilt (Windows only)
 Find the 7Z-archive in the latest release (https://github.com/BedrockDotWebp/Uwuifier/releases/latest), and download it to extract somewhere. After this, you can either run the program in that extracted folder or pass arguments via CMD files that are included.
 
